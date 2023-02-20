@@ -1,2 +1,3 @@
-# -Docs-AyasakiMoe
-Explanatory documents for AyasakiMoe service
+# Documentation
+
+Documentation of the AyasakiMoe service
