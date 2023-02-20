@@ -4,6 +4,8 @@
 
 > 注意：所有的服务均面向中国大陆，境外访问并不是我们的首要考虑。
 > 如果您的用户以境外用户为主，还是推荐您使用原服务而非 `ASMS`。
+> `ASMS` 是 `AyasakiMoe Services` 的简称，中文名为：絢咲萌服务。
+> 所以服务均由 `絢咲萌社区` 支持。
 
 > 除图床外，其他服务均只向好友提供服务。实在是没钱撑起这些东西。
 
@@ -14,9 +16,11 @@
 - [图床附加服务条款](./service/imagehost/imghost-rules.md)
 - [絢咲萌图床](./service/imagehost/imghost.md)
 - [絢咲萌图床使用教程](./service/imagehost/imghost-tutorial.md)
-## 镜像站
 
+## API
 
+- [漫游解析](./service/api/BiliRoaming.md)
+- [广告拦截](./service/api/ADH.md)
 
 ---
 

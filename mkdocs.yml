@@ -38,7 +38,7 @@ plugins:
       tags_file: tags.md
 copyright: Copyright &copy; 2021 - 2022 赤月未咲
 repo_url: https://github.com/Akatsuki-Misaki
-repo_name: ASMS/doc.lolicon.team
+repo_name: AyasakiMoe/Docs-AyasakiMoe
 edit_uri: edit/master/docs/
 markdown_extensions:
   - meta
@@ -65,8 +65,12 @@ nav:
   - terms-of-use.md
   - service/imagehost/imghost-rules.md
 
-- 图床:
+- 图片托管:
   - service/imagehost/imghost.md
   - service/imagehost/imghost-tutorial.md
+
+- 服务接口:
+  - service/api/BiliRoaming.md
+  - service/api/ADH.md
 
 - 标签: tags.md
