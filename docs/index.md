@@ -9,6 +9,9 @@
 
 > 除图床外，其他服务均只向好友提供服务。实在是没钱撑起这些东西。
 
+## 如何运作
+[How it works](How-it-works.md)
+
 ## 使用条款
 [ASMS Terms of use](terms-of-use.md)
 
